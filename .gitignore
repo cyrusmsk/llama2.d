@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/llama2_d
+llama2_d.so
+llama2_d.dylib
+llama2_d.dll
+llama2_d.a
+llama2_d.lib
+llama2_d-test-*
+*.exe
+*.o
+*.obj
+*.lst

@@ -1,0 +1,11 @@
+{
+	"authors": [
+		"Sergei Giniatulin"
+	],
+	"copyright": "Copyright © 2023, Sergei Giniatulin",
+	"description": "Inference Llama 2 in one file of pure D",
+    "dflags-dmd": ["-march=native"],
+    "dflags-ldc": ["-mcpu=native"],
+	"license": "MIT",
+	"name": "llama2_d"
+}
