@@ -1,6 +1,6 @@
 # llama2.d
 <p align="center">
-  <img src="assets/llama2_and_dman.png" width="300" height="300" alt="Cute Llama">
+  <img src="assets/llama_and_dman.png" width="300" height="300" alt="Cute Llama">
 </p>
 
 This is the D version of [llama2.c](https://github.com/karpathy/llama2.c) by
