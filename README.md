@@ -29,7 +29,7 @@ To run example:
 
 Tested on:
 - [X] macOS (M1)
-- [ ] Linux
+- [X] Linux
 - [ ] Windows
 
 ## Todo
